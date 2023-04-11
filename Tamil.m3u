@@ -1,7 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tamilultra.net/upload/source/Sun_TV_HD.png" group-title="TLL MUSIC",SUN TV
 https://yupp.tamilultra.in/redbox.m3u8?id=2336
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="TLL MUSIC", RAM TV
-http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tamilultra.net/upload/source/Star_Vijay.png" group-title="TLL MUSIC", VIJAY TV
-https://yupp.tamilultra.in/redbox.m3u8?id=2881
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tamilultra.net/upload/source/Sun_TV_HD.png" group-title="TLL MUSIC",SUN TV
+https://yupp.tamilultra.in/redbox.m3u8?id=2336
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-great-indian-kitchen-et00321261-1675162017.jpg" group-title="Movies",The Great Indian Kitchen 
+https://assets-1.entertainvideo.com/assets/media/f09cf71600c266b62786cbeff10dd470/dash/111298e694bdca4def9a714700b6ac6e.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGEZUF2TnxON_xa-HXhbfPA45p-FHaoKxNA&usqp=CAU", Ayothi
+https://assets-1.entertainvideo.com/assets/media/88388f5ad196a474d1c430e07429ed81/dash/160a968c9205cf37d1ab7769fddd5c26.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tamilultra.net/upload/source/Sun_TV_HD.png" group-title="TLL MUSIC",SUN TV
+https://yupp.tamilultra.in/redbox.m3u8?id=2336
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-great-indian-kitchen-et00321261-1675162017.jpg" group-title="Movies",The Great Indian Kitchen 
+https://assets-1.entertainvideo.com/assets/media/f09cf71600c266b62786cbeff10dd470/dash/111298e694bdca4def9a714700b6ac6e.mpd
+
+
+
+
+
