@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tamilultra.net/upload/source/Sun_TV_HD.png" group-title="TLL MUSIC",SUN TV
+https://yupp.tamilultra.in/redbox.m3u8?id=2336
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="TLL MUSIC", RAM TV
+http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tamilultra.net/upload/source/Star_Vijay.png" group-title="TLL MUSIC", VIJAY TV
+https://yupp.tamilultra.in/redbox.m3u8?id=2881
