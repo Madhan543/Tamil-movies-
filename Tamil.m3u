@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil channels",Sun music
+https://tamilultra.net/api/redbox/playlist.m3u8?id=2832&Auth_Token=c1ff8070940e6378f5dadd6500000b135bfd774b
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG6L2WmlrU5r2HzTKoXTJC5DFyU9vMbUJ79Cp5P7RB5QEEnXkH"group-title="Movies",RRR
 https://assets-1.entertainvideo.com/assets/media/655b00a29c2890e6cfd5faf05ab39a69/dash/cefd51203480e8ee36181a714c2fa0d1.mpd
 #EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-great-indian-kitchen-et00321261-1675162017.jpg" group-title="Movies",The Great Indian Kitchen 
@@ -32,8 +33,6 @@ https://assets-1.entertainvideo.com/assets/media/30f6f8232ee13047deec9eb6a94fff4
 https://assets-1.entertainvideo.com/assets/media/753c6860963ed4571ba37746970f7714/dash/700bf1353c87f866b87f57752196fa72.mpd
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1098171416325881857/zsgju_op_400x400.png" group-title="Sports",Star sports Tamil
 https://vmi859463.contaboserver.net/star_sports/tracks-v1a1/mono.m3u8?Auth_Token=7c5282d05fc46bbfdbb8ceb6163397206388c497&m=2
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil channels",Sun music
-https://tamilultra.net/api/redbox/playlist.m3u8?id=2832&Auth_Token=c1ff8070940e6378f5dadd6500000b135bfd774b
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJW0eila8E__MGQtFbWW5F9kv0FHQgUohjo8CODXbLnRL5y1T" group-title="Movies",
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJW0eila8E__MGQtFbWW5F9kv0FHQgUohjo8CODXbLnRL5y1T" group-title="Movies",
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJW0eila8E__MGQtFbWW5F9kv0FHQgUohjo8CODXbLnRL5y1T" group-title="Movies",
