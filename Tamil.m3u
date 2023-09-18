@@ -1,63 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1173895090240020480/ms52tzxE_400x400.jpg" group-title="Tamil channels",Sun music
-https://tamilultra.net/api/redbox/playlist.m3u8?id=2832&Auth_Token=c1ff8070940e6378f5dadd6500000b135bfd774b
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG6L2WmlrU5r2HzTKoXTJC5DFyU9vMbUJ79Cp5P7RB5QEEnXkH"group-title="Movies",RRR
-https://assets-1.entertainvideo.com/assets/media/655b00a29c2890e6cfd5faf05ab39a69/dash/cefd51203480e8ee36181a714c2fa0d1.mpd
-#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-great-indian-kitchen-et00321261-1675162017.jpg" group-title="Movies",The Great Indian Kitchen 
-https://assets-1.entertainvideo.com/assets/media/f09cf71600c266b62786cbeff10dd470/dash/111298e694bdca4def9a714700b6ac6e.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGEZUF2TnxON_xa-HXhbfPA45p-FHaoKxNA&usqp=CAU" group-title="Movies", Ayothi
-https://assets-1.entertainvideo.com/assets/media/88388f5ad196a474d1c430e07429ed81/dash/160a968c9205cf37d1ab7769fddd5c26.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJW0eila8E__MGQtFbWW5F9kv0FHQgUohjo8CODXbLnRL5y1T" group-title="Movies",Agilan
-https://assets-1.entertainvideo.com/assets/media/a2224f01fca2bf335a0f520ef8977847/dash/0e8db62b3425df82c7dd1c660ee6f407.mpd
-#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vaathi-et00335415-1663587908.jpg" group-title="Movies",Vaathi
-https://assets-1.entertainvideo.com/assets/media/77a2e988ba6bca78b118bfa5cc5c3927/dash/193f6ce71f59afa633096dd6ad8c0fb3.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVyfPYxlIUVVoQVFfHnaDwkuX9qPD1YwTmX4QdDee6Fhs3_ByF" group-title="Movies",Dada
-https://assets-1.entertainvideo.com/assets/media/7a677eb592fd5a9b3cb380126877a45d/dash/872471a5061fe1242aa8727fc3ed23c2.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/7baf1938e1d038da068ff5f43b7c5d927cf3151f35d42b196bd99f82a5400832._RI_V_TTW_.jpg" group-title="Movies",Jathi ratnalu
-https://assets-1.entertainvideo.com/assets/media/4465d1682a40597c1a81632d31fcedb2/dash/df64577f6c236b9ae62d362f1af36ea2.mpd
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTM2NDI0N2UtOTA1OS00ZWUyLTljNjEtMzM4MWEyZDYyM2VkXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg" group-title="Movies",iratta 
-https://assets-1.entertainvideo.com/assets/media/aba973130c328d49baa574c55682a660/dash/8e9d819879a48ddc72bb5b5cb891590c.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4TZZoCINGvFlkxXndAnbfwTZIhy72E3AV7wlHoTXk3gzZKTQq" group-title="Movies",Hello june
-https://assets-1.entertainvideo.com/assets/media/8d76226f105533fdc17b4464214529b4/dash/3a689e0ef6449cc0bd546b4f3a228544.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Christy-2023.jpg/220px-Christy-2023.jpg" group-title="Movies",Christy (2023)
-https://assets-1.entertainvideo.com/assets/media/d69212dcf7258b8ea50e5ffbc3ccf1a7/dash/c9e5e7c279b2151925bc6f8487d74c7c.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmoZIoFgIkKCledRzZT3q3xy64ZwMfnVXSQUdfp7cSo1suHPye" group-title="Movies",Pathaan(2023)
-https://assets-1.entertainvideo.com/assets/media/43f436b2fd53e9868988727f7a708490/dash/f4e790734c3058c4445511fe9fdb0233.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmGggtpJ4TX3aN3PUaVWUgNODHespRPvKYAyhGUAZSqSOmPiEm" group-title="Movies",Avatar: The Way of Water
-https://assets-1.entertainvideo.com/assets/media/2fb06e7ae785fd4255ca2b10e13c8d09/dash/6d46b32c4655d952c223f3c1e20e3a7a.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGYL_oGQLc7m49l-1CgDY9p6wOOsn5oudx2BSpw3I6cuteipYieYFwDaVPWY58ld6GIw" group-title="Movies",Antha naal nyabagam (2023)
-https://assets-1.entertainvideo.com/assets/media/757d6bea088f782deda8a904c26b57ef/dash/d2e3d89dac1679aed81c38e6862cded8.mpd
-#EXTINF:-1 tvg-logo="https://static.toiimg.com/photo/98384105.cms?imgsize=36123" group-title="Movies",Bagheera
-https://assets-1.entertainvideo.com/assets/media/30f6f8232ee13047deec9eb6a94fff49/dash/33fec7ce865c601d21500cad1a342cc6.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Memories_Poster.jpeg/220px-Memories_Poster.jpeg" group-title="Movies",Memories(2023)
-https://assets-1.entertainvideo.com/assets/media/753c6860963ed4571ba37746970f7714/dash/700bf1353c87f866b87f57752196fa72.mpd
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1098171416325881857/zsgju_op_400x400.png" group-title="Sports",Star sports Tamil
-https://vmi859463.contaboserver.net/star_sports/tracks-v1a1/mono.m3u8?Auth_Token=7c5282d05fc46bbfdbb8ceb6163397206388c497&m=2
-#EXTINF:-1 tvg-logo="https://trendingcinemasnow.com/wp-content/uploads/2022/09/Viduthalai-Soori--scaled.jpg" group-title="Movies",Viduthalai Part 1 
-https://assets-1.entertainvideo.com/assets/media/9512c1f59ee4ba9988207e467a20cfe2/dash/6eaeb6dbdf1408240a4aaa2e03a17e8f.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT27-2Cx2HY-7sneYNNzWf9ej3wL3Q2zWmpiLcu9bXd2A4djqZB" group-title="Movies",Vikram Vedha(2016)
-https://assets-1.entertainvideo.com/assets/media/2d7f1e86be0c0a284b49f041f65bcbad/dash/5a803a092b10dbf617946c37d77ad5c5.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZMWEvUQ7Iz3TW1PHc-eIbp1mMu0hmLIQNcB16m49P0DTf09zg" group-title="Movies",நித்தம் ஒரு வானம்
-https://assets-1.entertainvideo.com/assets/media/371889386ad8d20ddf5cbb71077f19e1/dash/700aba5261e202f215b82d00da7f4b69.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Vinnaithaandi_Varuvaaya_poster.jpg" group-title="Movies",விண்ணைத் தாண்டி வருவாயா
-https://assets-1.entertainvideo.com/assets/media/f041855cbef46638007932ed8eb866f8/dash/309b8a0c21609ae288f0ea73825e5a84.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJW0eila8E__MGQtFbWW5F9kv0FHQgUohjo8CODXbLnRL5y1T" group-title="Movies",AAA
-https://file.sony-tamizh.workers.dev/2:/-%20N4%20%282023%29%20Tamil%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20%28DD5.1%20-%20320Kbps%20%26%20AAC%29%20-%202.6GB%20-%20ESub.mkv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ZuSz0V38xgDtfnaaS6ozm-IIGf0MMNkEJg&usqp=CAU" group-title="Movies",Burqa(2023)
-https://assets-1.entertainvideo.com/assets/media/c5b7295f1c53320a899b9886dbb3d4e9/dash/221e3216adb3cc0c14c87af706307cd2.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZwX5Sjny0x_cBwNX5iVexoQDpBqy-2BZ_w&s" group-title="Movies",Pathu Thala (2023)
-https://assets-1.entertainvideo.com/assets/media/4b727c69edbfd2255ed5353ee4a986db/dash/73612242aa7d07c317a84693c07f9122.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW4e1ggELvWpu3gBEutwEGw9M0z13JjVqo-w&s" group-title="Movies",Ghosty(2023)
-https://assets-1.entertainvideo.com/assets/media/361bc254769267f8ea86f9687ffa125b/dash/0d588df6bba8a2b6236185d13ba0bf98.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgHIx-UQWVXBFMGsPLXq44YGgW0gNfGkAiA9oeyqr&s" group-title="Movies",96(2018)
-https://assets-1.entertainvideo.com/assets/media/b41db47bc8afe14fad859f445a6f6f7f/dash/f5fd43838f442cc66dfbb5b0f47e63c9.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-bFKOdt4O-BGGMcvxsHa9PDj5o3pyVIwg7ubKGDfYPRrmWIbJhQdEVmb&s=10" group-title="Movies",Gargi(2022)
-https://assets-1.entertainvideo.com/assets/media/0119c9645270da2410e2ae34452f0957/dash/c50dbd381e7021d8e1ff56071d9ba488.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqcyxifttUitWAMr7vJAVsILf9frohK-FgttIdGXq4NKNN_zU" group-title="Movies",Raavanan(2010)
-https://assets-1.entertainvideo.com/assets/media/c69ae9fed7d2b0d5483501b4edc84ee0/dash/f4abdbfd1d53c8d905c47dbe34bb7616.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJW0eila8E__MGQtFbWW5F9kv0FHQgUohjo8CODXbLnRL5y1T" group-title="Movies",
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJW0eila8E__MGQtFbWW5F9kv0FHQgUohjo8CODXbLnRL5y1T" group-title="Movies",
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJW0eila8E__MGQtFbWW5F9kv0FHQgUohjo8CODXbLnRL5y1T" group-title="Movies",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Padmini_2023_Malayalam_film_poster.jpg" group-title="Movies",Padmni
+https://doc-14-2s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/6b4kmh7uet87kbhho49487d1t3qh1nnm/1695049275000/00940483048228582751/*/1sRp9p8Lk_am1riYPm1VZzwyMxWrS0UhF?e=download&uuid=1283fb80-a6ec-445b-8941-a167b8b94977
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrwo_z9wpi8KkEqcCr6cnHgjkUmZ2pjaQhFM2VuoVVewqsq-WV" group-title="Movies",Por Thozhil
+https://doc-04-94-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/iea81oel708q2o7ce8o4kvtok7vpctdv/1695049200000/11283200914649914869/*/19lYGY1cW0R7ujHBbRLN8AmYIfFF-eOqK?e=download&uuid=6bbf84e1-36ed-46b9-a7aa-37bc747072bf
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeLKzhs9KUzDmF9P_Zg-KdXJ3yKS23PUgli6DpJEZHoZu-zccE" group-title="Movies",Roja
+https://doc-0o-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ifbm2gf8n81m8dv8f8kmgkpefcvq1nqf/1695049125000/11654161792075246102/*/13reiBnp0awnwLEVjdzyVD7rHrzs2b0Vi?e=download&uuid=90beb085-e8f7-4c0d-8188-81502c96624f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJW0eila8E__MGQtFbWW5F9kv0FHQgUohjo8CODXbLnRL5y1T" group-title="Movies",
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJW0eila8E__MGQtFbWW5F9kv0FHQgUohjo8CODXbLnRL5y1T" group-title="Movies",
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJW0eila8E__MGQtFbWW5F9kv0FHQgUohjo8CODXbLnRL5y1T" group-title="Movies",
